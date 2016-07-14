@@ -260,7 +260,7 @@ mathjax:
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 #add_this_id:
 
 # Share

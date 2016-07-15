@@ -81,23 +81,28 @@ font:
   # 全局字体，应用在 <body> 元素上
   global:
     external: true
-    family: Monda
+    # family: Monda
+    family: Helvetica
 
   # 标题字体 (h1, h2, h3, h4, h5, h6)
   headings:
     external: true
-    family: Roboto Slab
+    # family: Roboto Slab
+    family: Helvetica
 
   # 文章字体
   posts:
     external: true
-    family:
+    family: 
 
   # Logo 字体
   logo:
     external: true
-    family: Lobster Two
-    size: 24
+    # family: Lobster Two
+    # family: Helvetica
+    # family: sans-serif
+    family: Condiment
+    size: 28
 
   # 代码字体，应用于 <code> 以及代码块
   codes:

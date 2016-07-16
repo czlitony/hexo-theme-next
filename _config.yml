@@ -4,7 +4,9 @@
 
 # Put your favicon.ico into `hexo-site/source/` directory.
 # favicon: /favicon.ico
-favicon: http://oacbieak2.bkt.clouddn.com/favicon4.ico
+# favicon: http://oacbieak2.bkt.clouddn.com/favicon.ico
+favicon: http://oacbieak2.bkt.clouddn.com/tony2_ZDI_8.ico
+#favicon: http://oacbieak2.bkt.clouddn.com/Tony2.jpg
 
 
 # Set default keywords (Use a comma to separate)

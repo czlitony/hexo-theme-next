@@ -88,7 +88,7 @@ font:
   headings:
     external: true
     # family: Roboto Slab
-    family: Helvetica
+    family: Bold
 
   # 文章字体
   posts:

@@ -98,7 +98,7 @@ font:
   # 文章字体
   posts:
     external: true
-    family: 
+    family: Arial
 
   # Logo 字体
   logo:
